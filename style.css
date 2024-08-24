@@ -11,7 +11,7 @@ body {
   margin: 0;
   padding: 0;
   overflow-x: hidden;
-  cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><text x="0" y="24" font-size="24">🔪</text></svg>') 16 16, auto;
+  /* cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><text x="0" y="24" font-size="24">🔪</text></svg>') 16 16, auto; */
 }
 
 h1,
@@ -81,7 +81,7 @@ h6 {
 .icon-link:hover {
   background-color: rgba(75, 0, 130, 0.7);
   transform: rotate(10deg); /* Rotate on hover */
-  cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><text x="0" y="24" font-size="24">🩸</text></svg>') 16 16, auto;
+  /* cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><text x="0" y="24" font-size="24">🩸</text></svg>') 16 16, auto; */
 }
 
 .icon {
@@ -102,7 +102,7 @@ h6 {
 .link:hover {
   color: rgb(255, 0, 0);
   transform: scale(1.1); /* Enlarge on hover */
-  cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><text x="0" y="24" font-size="24">🩸</text></svg>') 16 16, auto;
+  /* cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><text x="0" y="24" font-size="24">🩸</text></svg>') 16 16, auto; */
 }
 
 .footer-text {
